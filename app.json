@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "rn_movibox",
-    "slug": "rn_movibox",
+    "name": "rn_moviebox",
+    "slug": "rn_moviebox",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
